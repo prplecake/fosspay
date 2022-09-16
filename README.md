@@ -1,4 +1,4 @@
-# fosspay [![Donate with fosspay](https://drewdevault.com/donate/static/donate-with-fosspay.png)](https://drewdevault.com/donate?project=3)
+# fosspay
 
 Donation collection for FOSS groups and individuals.
 
@@ -8,10 +8,6 @@ Donation collection for FOSS groups and individuals.
 
 It works for individuals (like me) and it works for organizations. Expect to
 spend about an hour or two setting up everything and then you're good to go.
-
-For support, visit [#cmpwn on
-irc.libera.chat](http://web.libera.chat/gamja/)
-or file a GitHub issue.
 
 ## Before you start
 
